@@ -1,4 +1,8 @@
-## Hi there 👋
+## Namaste 🙏
+- 🔭 I’m a Software Developer instrested in building and deploying web apps.
+- 🌱 I’m currently learning to build digital solution with both Monolithic and Microservices Architecture
+- 👯 I’m looking to collaborate on <code>.ts</code>, <code>.go</code>, <code>.java</code>
+- 😄 Pronouns: He/Him
 
 <!--
 **Gopal-001/Gopal-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

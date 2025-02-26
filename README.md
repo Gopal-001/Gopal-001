@@ -1,7 +1,7 @@
 ## Namaste 🙏
 - 🔭 I’m a Software Developer instrested in building and deploying web apps.
 - 🌱 I’m currently learning to build digital solution with both Monolithic and Microservices Architecture
-- 👯 I’m looking to collaborate on <code>.ts</code>, <code>.go</code>, <code>.java</code>
+- 👯 I’m looking to collaborate on <code>.ts</code>, <code>.js</code>, <code>.go</code>, <code>.java</code>
 - 😄 Pronouns: He/Him
 
 <!--
